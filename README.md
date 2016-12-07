@@ -6,3 +6,5 @@ We have Reuters data, it contains 21578 Reuters news documents from 1987. They w
 
 The dataset (7.8. MB) can be downloaded from https://archive.ics.uci.edu/ml/machine-learning-databases/reuters21578-mld/reuters21578.tar.gz
 
+# Objective
+I have used Apache Spark to classify the topics for those documents, which were not categorized into any category.
